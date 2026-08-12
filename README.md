@@ -6,9 +6,9 @@ Building software and businesses. Toronto.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/xbaox/xbaox/main/assets/activity-dark.svg" />
-  <img alt="activity"
-       src="https://raw.githubusercontent.com/xbaox/xbaox/main/assets/activity.svg" />
+          srcset="https://raw.githubusercontent.com/xbaox/xbaox/output/snake-dark.svg" />
+  <img alt="snake"
+       src="https://raw.githubusercontent.com/xbaox/xbaox/output/snake.svg" />
 </picture>
 
 ---
