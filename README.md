@@ -6,9 +6,9 @@ Building software and businesses. Toronto.
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=xbaox&theme=github-compact&bg_color=00000000&hide_border=true&line=3fb950&point=3fb950&color=8b949e" />
+          srcset="https://raw.githubusercontent.com/xbaox/xbaox/main/assets/activity-dark.svg" />
   <img alt="activity"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=xbaox&theme=github-compact&bg_color=00000000&hide_border=true&line=1a7f37&point=1a7f37&color=57606a" />
+       src="https://raw.githubusercontent.com/xbaox/xbaox/main/assets/activity.svg" />
 </picture>
 
 ---
