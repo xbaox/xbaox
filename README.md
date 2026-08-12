@@ -9,13 +9,6 @@ Building software and businesses. Toronto.
   <img alt="activity" src="assets/activity.svg" width="100%" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/xbaox/xbaox/output/snake-dark.svg" />
-  <img alt="snake"
-       src="https://raw.githubusercontent.com/xbaox/xbaox/output/snake.svg" />
-</picture>
-
 ---
 
 [Telegram](https://t.me/baocreates)
